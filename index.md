@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+**协作原则**
+
+```bash
+1] 如果一个分支已经公开，就不应该重写、修改该分支的任何部分
+2] 已经发布出去的代码不应该再执行 rebase
+3] 建议使用 fork + pr(pull request) 协作开发
+
+```
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
